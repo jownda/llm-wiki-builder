@@ -1,0 +1,42 @@
+# Secrets - NEVER commit
+.env
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Pipeline state files (local tracking)
+scripts/.pipeline_state*.json
+
+# Maintenance & health reports (regenerated)
+wiki/**/_maintenance/health_report.json
+wiki/**/_search_index/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp & debug files
+*.tmp
+*.log
+debug_page_*.png
+test_*.py
+test_*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# raw/ is for user's own source files - ignore by default
+# Users can selectively add their own files
+raw/
+
+# Example wiki - users create their own
+wiki/nanjing/
