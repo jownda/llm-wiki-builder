@@ -2,6 +2,8 @@
 
 > 为大型知识库而生：基于 Karpathy 三层架构的个人 LLM Wiki 构建工具
 
+[English](./README.en.md)
+
 ---
 
 ## 🌟 项目简介
