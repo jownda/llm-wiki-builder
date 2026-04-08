@@ -1,0 +1,49 @@
+
+
+    Ŀ¼: C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d----l          2026/4/4     17:25                lark-approval                                                        
+Created link: lark-approval
+d----l          2026/4/4     17:25                lark-base                                                            
+Created link: lark-base
+d----l          2026/4/4     17:25                lark-calendar                                                        
+Created link: lark-calendar
+d----l          2026/4/4     17:25                lark-contact                                                         
+Created link: lark-contact
+d----l          2026/4/4     17:25                lark-doc                                                             
+Created link: lark-doc
+d----l          2026/4/4     17:25                lark-drive                                                           
+Created link: lark-drive
+d----l          2026/4/4     17:25                lark-event                                                           
+Created link: lark-event
+d----l          2026/4/4     17:25                lark-im                                                              
+Created link: lark-im
+d----l          2026/4/4     17:25                lark-mail                                                            
+Created link: lark-mail
+d----l          2026/4/4     17:25                lark-minutes                                                         
+Created link: lark-minutes
+d----l          2026/4/4     17:25                lark-openapi-explorer                                                
+Created link: lark-openapi-explorer
+d----l          2026/4/4     17:25                lark-shared                                                          
+Created link: lark-shared
+d----l          2026/4/4     17:25                lark-sheets                                                          
+Created link: lark-sheets
+d----l          2026/4/4     17:25                lark-skill-maker                                                     
+Created link: lark-skill-maker
+d----l          2026/4/4     17:25                lark-task                                                            
+Created link: lark-task
+d----l          2026/4/4     17:25                lark-vc                                                              
+Created link: lark-vc
+d----l          2026/4/4     17:25                lark-whiteboard                                                      
+Created link: lark-whiteboard
+d----l          2026/4/4     17:25                lark-wiki                                                            
+Created link: lark-wiki
+d----l          2026/4/4     17:25                lark-workflow-meeting-summary                                        
+Created link: lark-workflow-meeting-summary
+d----l          2026/4/4     17:25                lark-workflow-standup-report                                         
+Created link: lark-workflow-standup-report
+
+

@@ -1,0 +1,208 @@
+npm warn exec The following package was not found and will be installed: skills@1.4.8
+
+[38;5;250m███████╗██╗  ██╗██╗██╗     ██╗     ███████╗[0m
+[38;5;248m██╔════╝██║ ██╔╝██║██║     ██║     ██╔════╝[0m
+[38;5;245m███████╗█████╔╝ ██║██║     ██║     ███████╗[0m
+[38;5;243m╚════██║██╔═██╗ ██║██║     ██║     ╚════██║[0m
+[38;5;240m███████║██║  ██╗██║███████╗███████╗███████║[0m
+[38;5;238m╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝[0m
+
+[90mT[39m  [46m[30m skills [39m[49m
+[90m|[39m
+[90m|[39m  [2mTip: use the --yes (-y) and --global (-g) flags to install without prompts.[22m
+[?25l[90m|[39m
+[32mo[39m  Source: https://github.com/larksuite/cli.git
+[?25h[?25l[90m|[39m
+[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository..[999D[J[35mo[39m  Cloning repository..[999D[J[35mO[39m  Cloning repository..[999D[J[35m0[39m  Cloning repository..[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository...[999D[J[35mO[39m  Cloning repository...[999D[J[35m0[39m  Cloning repository...[999D[J[35m•[39m  Cloning repository...[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository[999D[J[35mO[39m  Cloning repository[999D[J[35m0[39m  Cloning repository[999D[J[35m•[39m  Cloning repository[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[35mo[39m  Cloning repository.[999D[J[35mO[39m  Cloning repository.[999D[J[35m0[39m  Cloning repository.[999D[J[35m•[39m  Cloning repository.[999D[J[32mo[39m  Repository cloned
+[?25h[?25l[90m|[39m
+[999D[J[32mo[39m  Found [32m20[39m skills
+[?25h[90m|[39m
+[34m•[39m  Installing all 20 skills
+[?25l[90m|[39m
+[999D[J[32mo[39m  45 agents
+[?25h[90m|[39m
+[34m•[39m  Installing to: [36mOpenClaw[39m
+
+[90m|[39m
+[32mo[39m  [0mInstallation Summary[0m [90m----------------------------------------+[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-approval[39m[22m                               [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-base[39m[22m                                   [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-calendar[39m[22m                               [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-contact[39m[22m                                [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-doc[39m[22m                                    [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-drive[39m[22m                                  [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-event[39m[22m                                  [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-im[39m[22m                                     [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-mail[39m[22m                                   [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-minutes[39m[22m                                [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-openapi-explorer[39m[22m                       [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-shared[39m[22m                                 [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-sheets[39m[22m                                 [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-skill-maker[39m[22m                            [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-task[39m[22m                                   [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-vc[39m[22m                                     [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-whiteboard[39m[22m                             [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-wiki[39m[22m                                   [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-workflow-meeting-summary[39m[22m               [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[36m~\.agents\skills\lark-workflow-standup-report[39m[22m                [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlink →[22m[2m OpenClaw[22m                                         [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m+---------------------------------------------------------------+[39m
+[90m|[39m
+[32mo[39m  [0mSecurity Risk Assessments[0m [90m----------------------------------------------------+[39m
+[90m|[39m  [2m[22m                                                                              [90m|[39m
+[90m|[39m  [2m                               [2mGen[22m[2m               [2mSocket[22m[2m            [2mSnyk[22m[2m[22m       [90m|[39m
+[90m|[39m  [2m[36mlark-approval[39m                  [32mSafe[39m              [32m0 alerts[39m          [32mLow Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-base[39m                      [32mSafe[39m              [32m0 alerts[39m          [31mHigh Risk[39m[22m  [90m|[39m
+[90m|[39m  [2m[36mlark-calendar[39m                  [32mSafe[39m              [32m0 alerts[39m          [32mLow Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-contact[39m                   [32mSafe[39m              [31m1 alert[39m           [32mLow Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-doc[39m                       [32mSafe[39m              [31m1 alert[39m           [31mHigh Risk[39m[22m  [90m|[39m
+[90m|[39m  [2m[36mlark-drive[39m                     [32mSafe[39m              [32m0 alerts[39m          [33mMed Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-event[39m                     [32mSafe[39m              [31m1 alert[39m           [33mMed Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-im[39m                        [32mSafe[39m              [32m0 alerts[39m          [33mMed Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-mail[39m                      [32mSafe[39m              [32m0 alerts[39m          [33mMed Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-minutes[39m                   [32mSafe[39m              [32m0 alerts[39m          [32mLow Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-openapi-explorer[39m          [32mSafe[39m              [31m1 alert[39m           [33mMed Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-shared[39m                    [32mSafe[39m              [31m1 alert[39m           [32mLow Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-sheets[39m                    [32mSafe[39m              [31m1 alert[39m           [31mHigh Risk[39m[22m  [90m|[39m
+[90m|[39m  [2m[36mlark-skill-maker[39m               [32mSafe[39m              [31m1 alert[39m           [32mLow Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-task[39m                      [32mSafe[39m              [32m0 alerts[39m          [32mLow Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-vc[39m                        [32mSafe[39m              [32m0 alerts[39m          [31mHigh Risk[39m[22m  [90m|[39m
+[90m|[39m  [2m[36mlark-whiteboard[39m                [32mSafe[39m              [32m0 alerts[39m          [31mHigh Risk[39m[22m  [90m|[39m
+[90m|[39m  [2m[36mlark-wiki[39m                      [32mSafe[39m              [31m1 alert[39m           [32mLow Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-workflow-meeting-summary[39m  [32mSafe[39m              [31m1 alert[39m           [32mLow Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[36mlark-workflow-standup-report[39m   [32mSafe[39m              [32m0 alerts[39m          [32mLow Risk[39m[22m   [90m|[39m
+[90m|[39m  [2m[22m                                                                              [90m|[39m
+[90m|[39m  [2m[2mDetails:[22m[2m [2mhttps://skills.sh/larksuite/cli[22m[2m[22m                                      [90m|[39m
+[90m|[39m  [2m[22m                                                                              [90m|[39m
+[90m+--------------------------------------------------------------------------------+[39m
+[?25l[90m|[39m
+[999D[J[35m•[39m  Installing skills[999D[J[35mo[39m  Installing skills[999D[J[35mO[39m  Installing skills[999D[J[35m0[39m  Installing skills[999D[J[35m•[39m  Installing skills[999D[J[35mo[39m  Installing skills[999D[J[35mO[39m  Installing skills[999D[J[35m0[39m  Installing skills[999D[J[35m•[39m  Installing skills.[999D[J[35mo[39m  Installing skills.[999D[J[32mo[39m  Installation complete
+[?25h
+[90m|[39m
+[32mo[39m  [0m[32mInstalled 20 skills[39m[0m [90m-----------------------------------------+[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-approval[22m                             [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-base[22m                                 [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-calendar[22m                             [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-contact[22m                              [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-doc[22m                                  [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-drive[22m                                [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-event[22m                                [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-im[22m                                   [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-mail[22m                                 [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-minutes[22m                              [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-openapi-explorer[22m                     [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-shared[22m                               [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-sheets[22m                               [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-skill-maker[22m                          [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-task[22m                                 [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-vc[22m                                   [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-whiteboard[22m                           [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-wiki[22m                                 [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-workflow-meeting-summary[22m             [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[32m✓[39m ~\.agents\skills\lark-workflow-standup-report[22m              [90m|[39m
+[90m|[39m  [2m  [32muniversal:[39m Amp, Antigravity, Cline, Codex, Cursor +7 more[22m  [90m|[39m
+[90m|[39m  [2m  [2msymlinked:[22m[2m OpenClaw[22m                                        [90m|[39m
+[90m|[39m  [2m[22m                                                             [90m|[39m
+[90m+---------------------------------------------------------------+[39m
+
+[90m|[39m
+[90m—[39m  [32mDone![39m[2m  Review skills before use; they run with full agent permissions.[22m

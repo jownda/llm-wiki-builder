@@ -1,0 +1,81 @@
+You can use "skillhub install [skill]" to install.
+browser  Browser
+  - Uses a headless browser to navigate web pages, interact with elements, and extract clean, readable text content from URLs.
+使用无头浏览器浏览网页、交互元素，并从URL提取简洁易读的文本内容。
+  - version: 1.0.0
+browser-use  Browser Use
+  - Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with w...
+自动化浏览器交互，用于网页测试、表单填充、截图和数据提取。当用户需要浏览网站、与网页元素交互或从网页收集信息时使用。
+  - version: 1.0.2
+browser-automation  Browser Automation
+  - Automate web browser interactions using natural language via CLI commands. Use when the user asks to browse websites, navigate web pages, extract data from websites, take screenshots, fill forms, click buttons, or interact with web applications.
+使用自然语言通过 CLI 命令自动化网页浏览器交互。适用于浏览网站、导航网页、提取数据、截屏、填表、点击按钮或与网页应用交互的场景。
+  - version: 1.0.1
+browser-cash  Browser Cash
+  - Spin up unblocked browser sessions via Browser.cash for web automation. Sessions bypass anti-bot protections (Cloudflare, DataDome, etc.) making them ideal for scraping and automation.
+使用 Browser.cash 启动无阻碍的浏览器会话，实现网页自动化。能够绕过 Cloudflare、DataDome 等反机器人防护，适用于爬虫和自动化任务。
+  - version: 1.0.0
+browserwing  browserwing
+  - Control and automate browser actions via HTTP API, including navigation, element interaction, data extraction, accessibility snapshots, screenshots, JS execu...
+通过HTTP API控制和自动化浏览器操作，包括导航、元素交互、数据提取、无障碍快照、截图、JS执行等。
+  - version: 1.0.0
+browserautomation-skill  Browser Automation
+  - Advanced headless browser automation skill for OpenClaw agents. Enables intelligent web navigation, form filling, data extraction, and UI testing with structured commands and semantic element targeting.
+面向OpenClaw代理的无头浏览器自动化技能，实现智能网页导航、表单填写、数据提取与UI测试，支持结构化命令和语义元素定位。
+  - version: 1.0.2
+browser-use-api  Browser Use API
+  - Cloud browser automation via Browser Use API. Use when you need AI-driven web browsing, scraping, form filling, or multi-step web tasks without local browser control. Triggers on "browser use", "cloud browser", "scrape website", "automate web task", or when local browser isn't available/suitable.
+通过Browser Use API实现云端浏览器自动化。适用于AI驱动的网页浏览、数据抓取、表单填写等任务，无需本地浏览器。触发词：browser use、cloud browser、scrape website、automate web task，或本地浏览器不可用时。
+  - version: 1.0.1
+browser-automation-stealth  Browser Automation Stealth
+  - Playwright wrapper enabling stealth browser automation with fingerprint randomization, proxy rotation, captcha handling, and session persistence for undetect...
+Playwright 包装器，实现隐形浏览器自动化，包括指纹随机化、代理轮换、验证码处理和会话持久化，防止被检测。
+  - version: 1.0.0
+browserless-agent  Browserless Agent
+  - Professional web automation with headless browser - navigate, scrape, automate, test, and interact with any website.
+{"answer":"专业无头浏览器Web自动化——导航、抓取、自动化、测试及交互任意网站。"}
+  - version: 0.1.0
+browser-use-local  Browser Use Local
+  - Automate browser actions locally via browser-use CLI/Python: open pages, click/type, screenshot, extract HTML/links, debug sessions, and capture login QR codes.
+通过 browser-use CLI/Python 本地自动化浏览器操作：打开页面、点击输入、截图、提取HTML/链接、调试会话及捕获登录二维码。
+  - version: 1.0.0
+browser-smooth  Smooth Browser
+  - PREFERRED BROWSER - Browser for AI agents to carry out any task on the web. Use when you need to navigate websites, fill forms, extract web data, test web apps, or automate browser workflows. Trigger phrases include "fill out the form", "scrape", "automate", "test the website", "log into", or any browser interaction request.
+首选浏览器 - 供AI智能体在网络上执行任意任务的浏览器。适用于网站导航、填写表单、提取网页数据、测试Web应用或自动化浏览器工作流。触发短语包括“填写表单”、“抓取”、“自动化”、“测试网站”、“登录”或任何浏览器交互请求。
+  - version: 0.1.0
+browser-automation-v2  Browser Automation V2
+  - Enterprise-grade browser automation with automatic tab cleanup, timeout retries, concurrency lock, smart waiting, and configurable environment settings.
+企业级浏览器自动化，支持自动清理标签页、超时重试、并发锁、智能等待及可配置环境设置。
+  - version: 2.0.0
+browserbase-sessions  browserbase-sessions
+  - Create and manage persistent Browserbase cloud browser sessions with authentication persistence. Use when you need to automate browsers, maintain logged-in s...
+创建并管理具有认证持久化功能的 Browserbase 云浏览器会话。适用于需要自动化浏览器、保持登录状态等场景。
+  - version: 2.5.0
+browserbase  Browserbase Persist with captcha
+  - Create and manage persistent Browserbase cloud browser sessions with authentication persistence. Use when the user needs to automate browsers, maintain logged-in sessions across interactions, scrape authenticated pages, or manage cloud browser instances. Handles session creation, context-based auth persistence, keep-alive reconnection, captcha solving, session recording, screenshots, and session cleanup.
+创建并管理持久化的 Browserbase 云浏览器会话，实现身份验证持久化。适用于自动化浏览器、保持登录状态、抓取需认证页面或管理云浏览器实例。功能包括会话创建、基于上下文的身份验证持久化、保活重连、验证码识别、会话录制、截图及会话清理。
+  - version: 1.0.0
+browser-history  Browser History
+  - Search and retrieve URLs, titles, and visit counts from Das's Chrome browsing history, including recent visits and YouTube video searches.
+搜索并检索 Das 的 Chrome 浏览器历史中的 URL、标题和访问次数，包括最近访问和 YouTube 视频搜索。
+  - version: 1.0.0
+browser-research-lite  Browser Research Lite
+  - API-key-free online research via the built-in browser tool. Use this skill when web_search fails due to missing keys, and you still need web evidence.
+通过内置浏览器工具进行免API-key在线研究。当因缺少密钥导致web_search失败，但仍需网络证据时使用此技能。
+  - version: 1.0.0
+browser-auth  Browser Auth
+  - Start a secure remote browser tunnel for manual user authentication (solving Captchas, 2FA, logins) and capture session data. Built for AI Commander.
+启动安全远程浏览器隧道，手动验证用户（处理验证码、2FA、登录）并捕获会话数据。为AI指挥官打造。
+  - version: 1.6.0
+browser-relay-xiaohongshu  Browser Relay
+  - 通过 HTTP relay 控制用户本地 Chromium 浏览器（绕过数据中心 IP 封锁），支持截图发送到 Telegram
+通过 HTTP relay 控制用户本地 Chromium 浏览器（绕过数据中心 IP 封锁），支持截图发送到 Telegram
+  - version: 0.2.2
+agent-browser  Agent Browser
+  - A fast Rust-based headless browser automation CLI with Node.js fallback that enables AI agents to navigate, click, type, and snapshot pages via structured commands.
+基于Rust的快速无头浏览器自动化CLI，支持Node.js回退，允许AI代理通过结构化命令执行页面导航、点击、输入和快照操作。
+  - version: 0.2.0
+browser-session-manager  Browser Session Manager
+  - Manage browser sessions for jimeng.jianying.com using Playwright by importing cookies/localStorage to automate video generation workflows with image upload a...
+使用 Playwright 管理 jimeng.jianying.com 的浏览器会话，导入 cookies/本地存储以自动化视频生成流程并上传图片。
+  - version: 1.0.0

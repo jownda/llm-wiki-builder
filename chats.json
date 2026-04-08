@@ -1,0 +1,38 @@
+{
+  "chats": [
+    {
+      "channel": "console",
+      "created_at": "2026-04-04T06:57:39.325508Z",
+      "id": "ac994798-edb3-4eef-9819-ce3fe3d03db2",
+      "meta": {},
+      "name": "你好",
+      "session_id": "1775285859146",
+      "status": "idle",
+      "updated_at": "2026-04-04T07:08:38.331368Z",
+      "user_id": "default"
+    },
+    {
+      "channel": "console",
+      "created_at": "2026-04-04T07:09:27.444582Z",
+      "id": "e7240293-d279-48a1-8cc0-9dd7649ee2d5",
+      "meta": {},
+      "name": "让我们开启一段新的旅",
+      "session_id": "1775286565823",
+      "status": "idle",
+      "updated_at": "2026-04-04T09:26:11.941050Z",
+      "user_id": "default"
+    },
+    {
+      "channel": "feishu",
+      "created_at": "2026-04-04T08:39:42.774828Z",
+      "id": "c8f3ea67-eda7-48eb-acde-d76fb3ec4921",
+      "meta": {},
+      "name": "你好，你是谁",
+      "session_id": "d1bf9a00",
+      "status": "idle",
+      "updated_at": "2026-04-04T09:44:01.609991Z",
+      "user_id": "ou_cb6f9ef3a36728dd68951e29d1bf9a00"
+    }
+  ],
+  "version": 1
+}

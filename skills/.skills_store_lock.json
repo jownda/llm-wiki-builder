@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "free-ride": {
+      "name": "Free Ride - Unlimited free AI",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=free-ride",
+      "source": "skillhub",
+      "version": "1.0.4"
+    },
+    "browser-use-local": {
+      "name": "Browser Use Local",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=browser-use-local",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "cognitive-memory": {
+      "name": "Cognitive Memory",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=cognitive-memory",
+      "source": "skillhub",
+      "version": "1.0.8"
+    }
+  }
+}

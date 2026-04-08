@@ -1,0 +1,81 @@
+You can use "skillhub install [skill]" to install.
+wechat-toolkit  微信公众号工具包
+  - 微信公众号一站式工具包 — 集成文章搜索、文章下载、AI洗稿改写、公众号发布四大功能。当用户需要搜索/下载/改写/发布微信公众号文章时使用。
+微信公众号一站式工具包 — 集成文章搜索、文章下载、AI洗稿改写、公众号发布四大功能。当用户需要搜索/下载/改写/发布微信公众号文章时使用。
+  - version: 1.0.1
+wechat-article-extractor-skill  微信公众号文章解析
+  - Extract metadata and content from WeChat Official Account articles. Use when user needs to parse WeChat article URLs (mp.weixin.qq.com), extract article info...
+提取微信公众号文章的元数据与内容。适用于解析微信文章链接及提取文章信息。
+  - version: 1.0.1
+wechat-article-spider  微信公众号文章爬虫
+  - 微信公众号文章爬虫 - 将微信公号文章转换为 Markdown + 本地图片
+微信公众号文章爬虫 - 将微信公号文章转换为 Markdown + 本地图片
+  - version: 1.0.0
+wechat-qq-sender  微信QQ自动发消息
+  - Windows 平台微信和 QQ 自动发消息工具。支持搜索联系人、发送消息、截图OCR分析、智能回复建议（需用户确认后发送）。
+Windows 平台微信和 QQ 自动发消息工具。支持搜索联系人、发送消息、截图OCR分析、智能回复建议（需用户确认后发送）。
+  - version: 1.1.3
+wechat-article-pro  微信公众号文章发布
+  - 微信公众号文章发布专业版。功能：1)联网搜索热点信息 2)AI生成微信公众号封面图 3)撰写3000-5000字深度文章 4)使用公众号AI配图功能自动生成并上传封面 5)参考刘润公众号风格写作 6)自动排版 7)不加话题标签
+微信公众号文章发布专业版。功能：1)联网搜索热点信息 2)AI生成微信公众号封面图 3)撰写3000-5000字深度文章 4)使用公众号AI配图功能自动生成并上传封面 5)参考刘润公众号风格写作 6)自动排版 7)不加话题标签
+  - version: 1.0.0
+dragon-wechat-mcp  微信MCP
+  - Windows 电脑端微信消息监控与发送 MCP，实现在微信上给指定联系人发送消息
+Windows 电脑端微信消息监控与发送 MCP，实现在微信上给指定联系人发送消息
+  - version: 1.0.0
+weixin-reader  微信公众号阅读器
+  - 提取微信公众号文章内容，支持任意公众号文章链接的内容抓取和结构化输出。
+提取微信公众号文章内容，支持任意公众号文章链接的内容抓取和结构化输出。
+  - version: 1.1.0
+wechat-article-reader  微信公众号文章导出
+  - 将微信公众号文章导出为 Markdown 格式。当用户提供微信公众号链接 (mp.weixin.qq.com) 或要求下载/导出/保存微信文章时触发。默认保存到工作空间的 source 目录。
+将微信公众号文章导出为 Markdown 格式。当用户提供微信公众号链接 (mp.weixin.qq.com) 或要求下载/导出/保存微信文章时触发。默认保存到工作空间的 source 目录。
+  - version: 1.0.0
+wechat-article-scraper  微信公众号文章抓取
+  - 在搜狗微信搜索指定关键词，抓取相关文章（标题、摘要、发布日期、来源公众号），生成PDF报告。触发场景：用户要求"搜索微信文章 关键字 数量
+在搜狗微信搜索指定关键词，抓取相关文章（标题、摘要、发布日期、来源公众号），生成PDF报告。触发场景：用户要求"搜索微信文章 关键字 数量
+  - version: 1.1.1
+wechat-publisher-pro  微信公众号自动发布增强版
+  - 一键发布 Markdown/HTML 文章到微信公众号草稿箱，支持自动配图、美化排版、UTF-8 编码
+一键发布 Markdown/HTML 文章到微信公众号草稿箱，支持自动配图、美化排版、UTF-8 编码
+  - version: 3.1.3
+jvs-wechat-article-publisher  微信公众号文章发布技能
+  - 微信公众号文章排版和发布技能。提供专业排版模板、图片上传、草稿发布等完整工作流。使用场景：(1) 创建公众号文章，(2) 上传图片到素材库，(3) 发布草稿到微信后台，(4) 装修案例/干货分享/客户故事等类型文章。
+微信公众号文章排版和发布技能。提供专业排版模板、图片上传、草稿发布等完整工作流。使用场景：(1) 创建公众号文章，(2) 上传图片到素材库，(3) 发布草稿到微信后台，(4) 装修案例/干货分享/客户故事等类型文章。
+  - version: 1.0.6
+ryan-wechat-mp  微信公众号发布工具
+  - Automate publishing WeChat Official Account articles with media upload, draft management, and publish status querying via WeChat MP API.
+通过微信公众平台API自动发布公众号文章，支持素材上传、草稿管理及发布状态查询。
+  - version: 0.1.0
+wechat-sticker-maker  微信表情包制作工具
+  - 微信表情包制作工具。自动将六宫格、九宫格、十二宫格的原图裁剪并转换为符合微信表情包规范的格式（表情主图 240x240，聊天页图标 50x50）。
+微信表情包制作工具。自动将六宫格、九宫格、十二宫格的原图裁剪并转换为符合微信表情包规范的格式（表情主图 240x240，聊天页图标 50x50）。
+  - version: 1.0.0
+wechat-mp-publish-skill  微信公众号发布工具
+  - 微信公众号文章发布工具 v1.0。基于官方 API，支持智能配图、模板渲染、草稿/发布双模式。当用户说"发公众号"、"发布微信公众号"时使用此技能。
+微信公众号文章发布工具 v1.0。基于官方 API，支持智能配图、模板渲染、草稿/发布双模式。当用户说"发公众号"、"发布微信公众号"时使用此技能。
+  - version: 1.0.2
+wechat-writer  微信公众号文章自动化写作
+  - 以大卫风格写微信公众号科技/AI/管理/职场文章。用户要写公众号文章、选题、改稿、审校时调用。
+以大卫风格写微信公众号科技/AI/管理/职场文章。用户要写公众号文章、选题、改稿、审校时调用。
+  - version: 1.0.2
+weapp-automated-testing  微信小程序自动化测试
+  - WeChat Mini Program automation testing toolkit. Supports launching DevTools, page navigation, element interaction, screenshots, console log reading, and more...
+微信小程序自动化测试工具包，支持启动开发者工具、页面导航、元素交互、截图、读取控制台日志等功能。
+  - version: 1.0.0
+wechatpay-product-coupon  微信支付商品券接入skill
+  - 微信支付商品券接入助手，提供券类型选型、API代码示例（Java/Go）、开发参数校验、接口报错排查和上线质量检查。Use when user mentions "商品券", "优惠券接入", "发券", "核销", "创建商品券", "商品券代码", "签名报错", "验签失败", "回调收不到", "Requ...
+微信支付商品券接入助手，提供券类型选型、API代码示例（Java/Go）、开发参数校验、接口报错排查和上线质量检查。Use when user mentions "商品券", "优惠券接入", "发券", "核销", "创建商品券", "商品券代码", "签名报错", "验签失败", "回调收不到", "Requ...
+  - version: 1.0.0
+weixin-reader-plus  微信公众号文章阅读器
+  - 读取并提取微信公众号文章标题、公众号名称及正文内容，支持移动端访问和自动重定向，适用于mp.weixin.qq.com链接。
+读取并提取微信公众号文章标题、公众号名称及正文内容，支持移动端访问和自动重定向，适用于mp.weixin.qq.com链接。
+  - version: 1.0.0
+decleormx-wechat-gzh-publish  微信公众号自动发布
+  - 自动登录微信公众号，自动填写标题正文，生成并设置AI封面图，支持草稿保存、摘要留言赞赏配置，提升发布效率。
+自动登录微信公众号，自动填写标题正文，生成并设置AI封面图，支持草稿保存、摘要留言赞赏配置，提升发布效率。
+  - version: 1.0.0
+jvs-enterprise-wechat  企业微信 AI Bot 对接
+  - 快速配置 OpenClaw 与企业微信 AI Bot 对接，实现无需公网和证书的智能助理接入和消息回复功能。
+快速配置 OpenClaw 与企业微信 AI Bot 对接，实现无需公网和证书的智能助理接入和消息回复功能。
+  - version: 1.0.2

@@ -1,0 +1,62 @@
+Command failed with exit code 1.
+[stdout]
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-approval"  2>&1 
+为 C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi <<===>> C:\Users\Administrator\.agents\skills\lark-approval 创建的符号链接
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-base"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-calendar"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-contact"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-doc"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-drive"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-event"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-im"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-mail"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-minutes"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-openapi-explorer"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-shared"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-sheets"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-skill-maker"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-task"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-vc"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-whiteboard"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-wiki"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-workflow-meeting-summary"  2>&1 
+当文件已存在时，无法创建该文件。
+
+C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1>mklink /D "C:\Users\Administrator\.copaw\workspaces\CoPaw_QA_Agent_0.1beta1\skills\~nxi" "C:\Users\Administrator\.agents\skills\lark-workflow-standup-report"  2>&1 
+当文件已存在时，无法创建该文件。
